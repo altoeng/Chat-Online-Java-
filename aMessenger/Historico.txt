@@ -1,0 +1,5 @@
+Rementente	Mensagem	Destinatário	Hora/Data	
+Eu	321312312	Todos	Mon Jun 19 17:25:41 GFT 2017	
+Eu	312312123123123132123	Todos	Mon Jun 19 17:25:44 GFT 2017	
+Eu	321312321	Todos	Mon Jun 19 17:25:50 GFT 2017	
+Eu	AE VALEU	Todos	Mon Jun 19 17:25:54 GFT 2017	
